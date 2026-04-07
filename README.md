@@ -10,11 +10,9 @@ The analysis focuses on revenue performance, customer segment, and trends.
 - DBeaver
 - Dataset: Free Olist E-commerce Dataset (Kaggle)
 
-
 ## Dataset
 The dataset used in this project is publicly available on Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 
 ## Key Analyses
 
@@ -36,11 +34,10 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Sales show variation over time, suggesting seasonal patterns
 - Customer behavior indicates limited repeat purchases in high-value segments
 
+## Dashboard
+View Dashboard on Tableau Public!
+- https://public.tableau.com/views/E-CommerceSalesKaggleFreeDataset/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Structure
 - `queries.sql` → all SQL queries used for analysis
 - `insights.md` → detailed business insights
-
-## Future Improvements
-- Build interactive dashboards (Tableau / Power BI)
-- Perform customer retention and cohort analysis
